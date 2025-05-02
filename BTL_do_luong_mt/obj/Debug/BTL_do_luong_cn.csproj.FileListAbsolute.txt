@@ -1,0 +1,52 @@
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\BTL_do_luong_cn.exe.config
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\BTL_do_luong_cn.exe
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\BTL_do_luong_cn.pdb
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.Form1.resources
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.exe
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.pdb
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\ZedGraph.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\ZedGraph.xml
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\BTL\BTL_do_luong_cn\obj\Debug\BTL_do_l.82872A14.Up2Date
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\BTL_do_luong_cn.exe.config
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\BTL_do_luong_cn.exe
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\BTL_do_luong_cn.pdb
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\ZedGraph.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\ZedGraph.xml
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.Form1.resources
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\obj\Debug\BTL_do_l.82872A14.Up2Date
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.exe
+C:\Users\Lenovo\Desktop\do luong mt\BTL_do_luong_cn\obj\Debug\BTL_do_luong_cn.pdb
